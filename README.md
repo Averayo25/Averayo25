@@ -4,8 +4,7 @@
 - 🔭 Focusing on FullStack Growth(Frontend + Backend + DevOps).😎
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I
 
 <!---
 Averayo25/Averayo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
