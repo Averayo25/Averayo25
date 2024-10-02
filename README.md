@@ -4,7 +4,7 @@
 - 🔭 Focusing on FullStack Growth(Frontend + Backend + DevOps).😎
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
-- 📫 I
+- 👨‍🎓 I graduated with a Bachelor of Science in Information Systems.
 
 <!---
 Averayo25/Averayo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
