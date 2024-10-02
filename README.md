@@ -4,6 +4,7 @@
 - 🔭 Focusing on FullStack Growth(Frontend + Backend + DevOps).😎
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
+- 📬 How to reach me: angeloverayo2@gmail.com
 - 👨‍🎓 I graduated with a Bachelor of Science in Information Systems.
 
 <!---
